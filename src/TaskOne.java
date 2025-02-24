@@ -31,7 +31,6 @@ public class TaskOne {
             commentAboutProgrammingLanguage = "You have a loooooot of ";
         }
 
-
         System.out.println("\nWelcome, " + name + "(" + age + ")." + commentAboutProgrammingLanguage + "experience with " + favLanguage + ".");
     }
 }
